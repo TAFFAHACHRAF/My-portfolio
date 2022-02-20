@@ -1,2 +1,1 @@
-# My-portfolio
-My creative skills &amp; experiences.
+# portfolio-using-html-css-js
